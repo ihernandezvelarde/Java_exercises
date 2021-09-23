@@ -1,0 +1,3 @@
+Ejercicio 1 --> 2 num por el user que sume los numeros del num 1 al num 2. (Contemplando ERROR num 1 no puede ser inf a segundo) que se repita hasta que este bien.
+Ejercicio 2 --> Nombre y edad por user. Programa que imprima nombre las veces que ha dicho user. Si en el nombre dice fi, el programa parara. sino seguira.
+Ejercicio 3 --> Ejercicio que dado 1 num por el user haga un cuadrado  hueco de (+,-,|).
