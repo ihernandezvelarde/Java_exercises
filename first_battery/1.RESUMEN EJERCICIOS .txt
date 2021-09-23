@@ -1,0 +1,20 @@
+Test --> Introducir numero por user + sumar X.
+Adivina edad--> Año de nacimiento por el user - año actual.
+Ejercicio 1--> Sumar dos Strings (dos apellidos).
+Ejercicio 2--> Sumar dos int dados por el user.
+Ejercicio 3--> Edat introducida por el user + un cuarto de siglo (+25).
+Ejercicio 4--> Num dado por el user + elevarlo a la 4ta potencia.
+Ejercicio 5--> Pasar de euros a pasetas. User introduce double euros * 166.386.
+Ejercicio 6-->Area de un rectangulo dada altura y base por el user. ((base * altura)).
+Ejercicio 7--> Nombre y edad por el user, imprimir Hola + nombre+ su edad es+ edad.
+Ejercicio 8--> Mini calculadora sencilla.
+Ejercicio 9--> Area y perimetro de una circumferencia.Con el radio x el user. Area= (Math.Pi *radio).Perimetro= (2*Math.Pi*radio.)
+Ejercicio 10-->Ecuacion de 3 grado dadas, A, B,C y D por el user. (Math.pow(var*var, 3) -->Para elevar a la potencia.
+Ejercicio 11--> Precio por user + IVA. (var*0.21).
+Ejercicio 11.2 --> Igual que el anterior diferente echo.
+Ejercicio 12--> Precio por user + IVA por user.
+Ejercicio Random--> Edades de 5 personas por user, sumarlas. luego edad, altura y pero por el user y hacer una frase final con todo para los 5.
+Ejercicio 14--> Mostrar el ultimo digito de un numero introducido por el user.
+Ejercicio 15--> El user introducira unos segundos y se pasarana  H, M y S.
+Ejercicio 16--> Nombre + apellido intro por el user y se generara un numero random menor que 9.
+
