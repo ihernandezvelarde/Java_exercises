@@ -1,0 +1,14 @@
+Ejercicio 1 --> Nombre y edad por user y que imprima 2 cosas segun si es +18 o menor.
+Ejercicio 2 --> 2 numeros por el user y que se ordenen de menor a mayor.
+Ejercicio 3 --> 2 numeros por el user y que el programa diga si el producto es 0 <0, >0.
+Ejercicio 4 --> Programa que dado por el user un simbolo diga si es letra o numero.
+Ejercicio 5 --> Obtener descuento en cantidad y porcentaje. Dados el precio inicial y al que le a salido el producto por el user.
+Ejercicio 6 --> Mes mas año por el user y que el programa diga un mes anterior y uno posterior. (contempladas casuisticas de mes 1 y 12).
+Ejercicio 7 --> Dadas por el user D,M,A - H,M,S que sume 1 segundo. (contempladas casuisticas 60s, 60m,24h,31/30D, 12M, todo +1).
+Ejercicio 8 --> Dados 3 numeros por el user el programa los ordena de menor a mayor.
+Ejercicio 9 --> Calculadora sencilla que da error si divides por 0.
+Ejercicio 10 --> Precio producto y pagado por el user, programa que te dice cuanto te falta o te sobra de dinero.
+Ejercicio 11 --> Medico virtual.
+Ejercicio 12 --> Semaforo (comparar strings).
+Ejercicio 13 --> Numeros de hijos introducidos x el user. Si es menor que 0 error, y dependiendo del numero dira una cosa o otra.
+Ejercicio 15 --> Ecuacion de 2 grado, datos introduidos por el user.
