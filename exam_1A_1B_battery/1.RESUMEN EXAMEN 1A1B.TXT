@@ -1,0 +1,8 @@
+Ejercicio 1 --> Nota media(contemplado error notas mayor que 1).
+Ejercicio 1B --> Cronometro regresivo.
+Ejercicio 2 --> Sumar hasta un limite.
+Ejercicio 2B --> Num entero por teclado+1 y diga el numero de cifras que tiene.
+Ejercicio 3 -->Cronometro.
+Ejercicio 3B -->Sumar numeros positivos por un lado y negativos por otro. Si pone 0 se termina el programa.
+Ejercicio 4 -->X numeros por el user y decir si hay mas negativos, positivos o los mismos.
+Ejercicio 4B -->User dice cuantos elementos y despues l por uno el programa lo separara por positivos o negativos.
