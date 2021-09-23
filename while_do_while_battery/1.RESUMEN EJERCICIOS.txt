@@ -1,0 +1,7 @@
+Ejercicio 1 --> Raiz cuadrada de X dado por el user. (contemplada casuistica <0 Error y se repetira hasta que sea correcto el numero).
+Ejercicio 3 --> Calculadora que pregunta al final si quiere hacer otra operacion siempre. (contempla casuistica /0 ERROR).
+Ejercicio dowhile --> Igual que el 3 pero echo con do while.
+Ejercicio dowhile2 --> Precio producto y precio pagado x user.Te dice lo que falta o sobra por pagar y pregunta si quieres otra operacion.
+Ejercicio 5 --> Maquina expendedora de cambio. Precio x user, programa te dice el minimo de billetes y monedas para ese precio.
+Ejercicio 6 --> Maquina tragaperras.(contemplados num randoms, avances de 0 a 5 que todo >9 y premios de 20€ 2=,1€ 7 en posicion 1 o 3 y 3= 250€.
+
