@@ -1,0 +1,14 @@
+Ejercicio 1 --> Ordenar y generar del 1 al 100 creciente.
+Ejercicio 2 -->  Nombre y numero por el user. Programa que imprima el nombre las veces que ha dicho el user.
+Ejercicio 3 --> 2 num por el user y imprima los numeros que hay del 1 al numero que ha dicho el user.
+Ejercicio 4 --> Num por user. Programa que imprima la suma de los num de 1 al que ha dicho el user.
+Ejercicio 5 --> Nombre, edad, año actual por user. Programa que dira el año nacido
+Ejercicio 6 --> Num por user. Programa que imprima la multiplicacion de los numeros del 1 al que ha dicho el user.
+Ejercicio 7 --> 10 notas introducidas por el user. Programa da nota media y nota minima. (contemplada casuistica nota<0 o >10 ERROR).
+Ejercicio 8 --> Notas introducidas por el user (las que quiera) Programa que pregunte si desea finalizar y cuando eso pase imp, nota media y minima.(contemplada casuistica nota<0 o >10 ERROR).
+Ejercicio 9 --> Num por user mas grande que 0 que dibuje un cuadrado de numeros hasta el num que ha dicho el user.
+Ejercicio 10 --> 2 num por el user que hagan un regtangulo.
+Ejercicio 11 --> Num por user que haga una piramide de (*) hasta el num del user cada fila +1 que la anterior.
+Ejercicio 12 --> Num por user que haga una piramide de numeros de mayor a menor hasta el num del user.
+Ejercicio inventadoFor --> Igual que el 11 diferente manera.
+Ejercicio 13 --> Num por user que haga una piramite invertida de mayor a menor en filas pero en la fila de menor a meyor hasta el numero del user.
